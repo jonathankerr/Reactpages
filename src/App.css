@@ -55,6 +55,7 @@
   white-space: nowrap;
   display: inline;
   margin: 1vw;
+  font-size: calc(10px + 1.4vmin);
 }
 
 .card-wrapper li a {
