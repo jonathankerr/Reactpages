@@ -40,3 +40,22 @@
 .heading-wrapper{
   color:red;
 }
+
+.card-wrapper{
+  text-align:center;
+}
+
+.card-wrapper li{
+  white-space: nowrap;
+  display: inline;
+  margin: 1vw;
+}
+
+.card-wrapper li a {
+  text-decoration: none;
+  color: white;
+}
+
+.card-wrapper li a:hover {
+  color: rgb(233, 215, 215);
+}
