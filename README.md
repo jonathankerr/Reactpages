@@ -2,7 +2,7 @@
 
 Built using React.
 
-[View The Site](https://jonathankerr.github.io/Reactpages/)
+[View The Site](https://findjonathan.com)
 
 
 
